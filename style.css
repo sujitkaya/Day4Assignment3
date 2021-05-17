@@ -1,0 +1,107 @@
+.page-wrapper{
+    background-image: url(bgi.jpg);
+    background-position: center;
+    background-blend-mode: lighten;
+
+   
+}
+.heading{
+    color: gray;
+    height: 10vh;
+    width: 1%;
+    margin-left: 1%;
+    display: inline;
+}
+.heading1{
+    
+    font-size: 30px;
+    border-bottom: 2px solid rgb(247, 243, 243);
+padding-bottom: 5px;
+margin-left: 10%;
+}
+.imagecontainer{
+width: 13%;
+height: 466px;
+background-image: url(dk.jpg);
+background-repeat: no-repeat;
+background-size: 195px 450px;
+vertical-align: top;
+
+
+}
+.box-wrapper{
+
+    width: 15%;
+height: 466px;
+margin-left: 52%;
+margin-top: -37%;
+}
+.box1{
+    background-image: url(juggarnaut.jpg);
+    background-repeat: no-repeat;
+    background-size: 204px 45px;
+    vertical-align: top;
+    
+}
+    p {
+
+font-family: Arial, Helvetica, sans-serif;      
+  padding: 10px 0px;
+        letter-spacing: 2px;
+        line-height: 20px;
+        color: blanchedalmond;
+    }
+    .box-wrapper1{
+        width: 15%;
+    height: 466px;
+    margin-left: 68%;
+    margin-top: -36.049%;
+    
+    }
+    .box2{
+        background-image: url(wk.jpg);
+        background-repeat: no-repeat;
+        background-size: 204px 45px;
+        vertical-align: top;
+
+        
+    }
+        p {
+    
+    font-family: Arial, Helvetica, sans-serif;      
+      padding: 10px 0px;
+            letter-spacing: 2px;
+            line-height: 20px;
+        }
+        .box-wrapper2{
+    
+            width: 15%;
+        height: 466px;
+        margin-left: 85%;
+        margin-top: -36.049%;
+        
+        }
+        .box3{
+            background-image: url(void.jpg);
+            background-repeat: no-repeat;
+            background-size: 204px 45px;
+            vertical-align: top;
+
+            
+        }
+            p {
+        
+        font-family: Arial, Helvetica, sans-serif;      
+          padding: 10px 0px;
+                letter-spacing: 2px;
+                line-height: 20px;
+            }
+.box-wrapper:hover{
+    background-color: rgb(13, 226, 102);
+}
+ .box-wrapper1:hover{
+     background-color: rgb(245, 216, 100);
+ }   
+ .box-wrapper2:hover{
+     background-color: rgb(223, 73, 103);
+ }    
